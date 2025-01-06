@@ -1,4 +1,5 @@
 import sys
+import pymupdf
 import fitz  # PyMuPDF
 from PyQt5.QtWidgets import (
     QApplication, QGraphicsView, QGraphicsScene, QMainWindow,
